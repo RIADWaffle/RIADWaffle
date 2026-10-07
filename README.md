@@ -7,7 +7,7 @@ Currently working with **Node.js, NestJS, React, and Python**, designing APIs, p
 
 📍 Durango, Mexico  
 🌐 Portfolio: https://riadwaffle.dev  
-💼 LinkedIn: https://linkedin.com/in/roberto-jimenez  
+💼 LinkedIn: https://www.linkedin.com/in/rjjv281002/
 
 ---
 
